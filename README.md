@@ -1,6 +1,6 @@
 
 <h1 align='center'>
-  Hey folks !! Name's Vandal
+  Hey folks !! I'm Vandal
 </h1>
 
 
