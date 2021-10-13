@@ -5,7 +5,7 @@
 
 <h2 class="center">Hit me Up 💬</h2>
 <p align="center">
-  ✉️ Mail ◻️ <a href="mailto:vandalsoul.github@protonmail.com">vandalsoul.github@protonmail.com</a>
+  <b>✉️ Mail ◻️ <a href="mailto:vandalsoul.github@protonmail.com">vandalsoul.github@protonmail.com</a></b>
 </p>
 
 <p align="center">
