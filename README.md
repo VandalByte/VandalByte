@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/vandalsoul/vandalsoul/main/media/mee.gif" />
 </p>
 
-<h2 class="center">Hit me Up 🤙</h2>
+<h2 class="center">Hit me Up 💬</h2>
 <p align="center">
   📧 Mail ◻️ <a href="mailto:vandalsoul.github@protonmail.com">vandalsoul.github@protonmail.com</a>
 </p>
