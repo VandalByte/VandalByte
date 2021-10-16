@@ -3,7 +3,11 @@
   <img src="https://raw.githubusercontent.com/vandalsoul/vandalsoul/main/media/mee.gif" />
 </p>
 
-<h2 class="center">Hit me Up 💬</h2>
+<p align="right">
+  <img width="15%" src="https://komarev.com/ghpvc/?username=vandalsoul&color=green&style=flat-square&label=Visitor+Count" />
+</p>
+
+<h2>Hit me Up 💬</h2>
 <p align="center">
   <b>✉️ Mail ◻️ <a href="mailto:vandalsoul.github@protonmail.com">vandalsoul.github@protonmail.com</a></b>
 </p>
