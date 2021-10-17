@@ -8,7 +8,7 @@
 </p>
 
 <h2>Hit me Up 💬</h2>
-<p>
+<p align="center">
   <img width="4%" src="https://raw.githubusercontent.com/vandalsoul/vandalsoul/main/media/mail.png" />
   <b><a href="mailto:vandalsoul.github@protonmail.com">vandalsoul.github@protonmail.com</a></b>
 </p>
