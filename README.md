@@ -9,7 +9,7 @@
 
 <h2>Hit me Up 💬</h2>
 <p align="center">
-  <img width="5%" src="https://raw.githubusercontent.com/vandalsoul/vandalsoul/main/media/mail.png" />
+  <img width="4%" src="https://raw.githubusercontent.com/vandalsoul/vandalsoul/main/media/mailimg.png" />
   <b><a href="mailto:vandalsoul.github@protonmail.com">vandalsoul.github@protonmail.com</a></b>
 </p>
 
