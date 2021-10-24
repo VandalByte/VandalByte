@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/vandalsoul/vandalsoul/main/media/mee.gif" />
 </p>
 
-<p align="right">
+<p align="center">
   <img width="15%" src="https://komarev.com/ghpvc/?username=vandalsoul&color=green&style=flat-square&label=Visitor+Count" />
 </p>
 
