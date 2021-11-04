@@ -14,8 +14,6 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vandalsoul&theme=chartreuse-dark&hide_border=true" />
 </p>
 
-<h2>💎 Repositories</h2>
-
 <p align="center">
   <a href="https://github.com/vandalsoul/dedsec-grub2-theme">
     <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=vandalsoul&repo=dedsec-grub2-theme&show_icons=true&theme=chartreuse-dark&hide_border=true" />
