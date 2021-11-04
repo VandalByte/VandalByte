@@ -13,7 +13,7 @@
 <div align="center">
   <p><b>Stuff I'm good at...</b></p>
   <img style="margin: 10px" src="https://raw.githubusercontent.com/vandalsoul/vandalsoul/main/media/python.svg" alt="Python" height="50" />  
-  <img style="margin: 10px" src="https://raw.githubusercontent.com/vandalsoul/vandalsoul/main/media/html.svg" alt="HTML5" height="50" />  
+  <img style="margin: 10px" src="https://raw.githubusercontent.com/vandalsoul/vandalsoul/main/media/html.svg" alt="HTML" height="50" />  
   <img style="margin: 10px" src="https://raw.githubusercontent.com/vandalsoul/vandalsoul/main/media/bash.svg" alt="Bash" height="50" />  
   <img style="margin: 10px" src="https://raw.githubusercontent.com/vandalsoul/vandalsoul/main/media/git.svg" alt="Git" height="50" />  
   <img style="margin: 10px" src="https://raw.githubusercontent.com/vandalsoul/vandalsoul/main/media/linux.svg" alt="Linux" height="50" />  
