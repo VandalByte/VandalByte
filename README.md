@@ -36,6 +36,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=000000" alt="html5" />
   <img src="https://img.shields.io/badge/debian-A81D33?style=for-the-badge&logo=debian&logoColor=000000" alt="html5" />
+  <img src="https://img.shields.io/badge/mxlinux-000000?style=for-the-badge&logo=mxlinux&logoColor=ffffff" alt="html5" />
   <img src="https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=000000" alt="html5" />
 </p>
 
