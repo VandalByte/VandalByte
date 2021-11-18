@@ -25,18 +25,18 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/python-323330?style=for-the-badge&logo=python&logoColor=3776AB" alt="python" />
-  <img src="https://img.shields.io/badge/html5-323330?style=for-the-badge&logo=html5&logoColor=E34F26" alt="html5" />
-  <img src="https://img.shields.io/badge/git-323330?style=for-the-badge&logo=git&logoColor=F05032" alt="git" />
-  <img src="https://img.shields.io/badge/bash-323330?style=for-the-badge&logo=gnubash&logoColor=4EAA25" alt="bash" />
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=000000" alt="python" />
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=000000" alt="html5" />
+  <img src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=000000" alt="bash" />
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=000000" alt="git" />
 </p>
 <p align="center">
   <b>OSs I use...</b>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/kali-323330?style=for-the-badge&logo=kalilinux&logoColor=557C94" alt="html5" />
-  <img src="https://img.shields.io/badge/debian-323330?style=for-the-badge&logo=debian&logoColor=A81D33" alt="html5" />
-  <img src="https://img.shields.io/badge/windows-323330?style=for-the-badge&logo=windows&logoColor=0078D6" alt="html5" />
+  <img src="https://img.shields.io/badge/kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=000000" alt="html5" />
+  <img src="https://img.shields.io/badge/debian-A81D33?style=for-the-badge&logo=debian&logoColor=000000" alt="html5" />
+  <img src="https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=000000" alt="html5" />
 </p>
 
 <p align="center">
