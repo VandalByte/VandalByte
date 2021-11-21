@@ -25,19 +25,19 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=000000" alt="python" />
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=000000" alt="html5" />
-  <img src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=000000" alt="bash" />
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=000000" alt="git" />
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=8ccbff" alt="python" />
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=ffad96" alt="html5" />
+  <img src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=caffb3" alt="bash" />
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=ffbaad" alt="git" />
 </p>
 <p align="center">
   <b>OSs I use...</b>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=000000" alt="html5" />
-  <img src="https://img.shields.io/badge/debian-A81D33?style=for-the-badge&logo=debian&logoColor=000000" alt="html5" />
-  <img src="https://img.shields.io/badge/mxlinux-000000?style=for-the-badge&logo=mxlinux&logoColor=ffffff" alt="html5" />
-  <img src="https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=000000" alt="html5" />
+  <img src="https://img.shields.io/badge/kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=b3ddff" alt="html5" />
+  <img src="https://img.shields.io/badge/debian-A81D33?style=for-the-badge&logo=debian&logoColor=ffb0bd" alt="html5" />
+  <img src="https://img.shields.io/badge/mxlinux-404040?style=for-the-badge&logo=mxlinux&logoColor=c2c2c2" alt="html5" />
+  <img src="https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=99d2ff" alt="html5" />
 </p>
 
 <p align="center">
