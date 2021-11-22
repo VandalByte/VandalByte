@@ -34,9 +34,9 @@
   <b>OSs I use ...</b>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=b3ddff" alt="html5" />
+  <img src="https://img.shields.io/badge/kali%20linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=b3ddff" alt="html5" />
   <img src="https://img.shields.io/badge/debian-A81D33?style=for-the-badge&logo=debian&logoColor=ffb0bd" alt="html5" />
-  <img src="https://img.shields.io/badge/mxlinux-404040?style=for-the-badge&logo=mxlinux&logoColor=c2c2c2" alt="html5" />
+  <img src="https://img.shields.io/badge/mx%20linux-404040?style=for-the-badge&logo=mxlinux&logoColor=c2c2c2" alt="html5" />
   <img src="https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=99d2ff" alt="html5" />
 </p>
 
