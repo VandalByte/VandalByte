@@ -21,9 +21,8 @@
 <br>
 -->
 <p align="center">
-  <b>Languages I'm good at ...</b>
+  <img src="https://raw.githubusercontent.com/vandalsoul/vandalsoul/main/media/language-banner.png" />
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=8ccbff" alt="python" />
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=ffad96" alt="html5" />
@@ -31,7 +30,7 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=ffbaad" alt="git" />
 </p>
 <p align="center">
-  <b>OSs I use ...</b>
+  <img src="https://raw.githubusercontent.com/vandalsoul/vandalsoul/main/media/os-banner.png" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/kali%20linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=b3ddff" alt="html5" />
