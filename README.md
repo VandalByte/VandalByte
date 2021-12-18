@@ -51,6 +51,9 @@
   <a href="https://github.com/vandalsoul/darkmatter-grub2-theme">
     <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=vandalsoul&repo=darkmatter-grub2-theme&show_icons=true&theme=chartreuse-dark&hide_border=true" />
   </a>
+  <a href="https://github.com/vandalsoul/grub-tweaks">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=vandalsoul&repo=grub-tweaks&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+  </a>
 </p>
 
 
