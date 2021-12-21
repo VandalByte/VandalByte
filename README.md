@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=caffb3" alt="bash" />
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=ffbaad" alt="git" />
 </p>
+<!--
 <p align="center">
   <img src="https://raw.githubusercontent.com/vandalsoul/vandalsoul/main/media/os-banner.png" />
 </p>
@@ -38,7 +39,7 @@
   <img src="https://img.shields.io/badge/mx%20linux-404040?style=for-the-badge&logo=mxlinux&logoColor=c2c2c2" alt="html5" />
   <img src="https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=99d2ff" alt="html5" />
 </p>
-
+-->
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vandalsoul&show_icons=true&theme=chartreuse-dark&hide_border=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vandalsoul&theme=chartreuse-dark&hide_border=true" />
