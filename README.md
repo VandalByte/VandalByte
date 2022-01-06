@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:vandalsoul.github@protonmail.com">
-    <img width="30%" src="https://img.shields.io/badge/-vandalsoul.github@protonmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" />
+    <img width="30%" src="https://img.shields.io/badge/-vandalsoul.github@protonmail.com-5956ba?style=flat-square&logo=protonmail&logoColor=b3b1f2" />
   </a>
 </p>
 
