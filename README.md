@@ -6,7 +6,10 @@
 
 <p align="center">
   <a href="mailto:vandalsoul.github@protonmail.com">
-    <img width="30%" src="https://img.shields.io/badge/-vandalsoul.github@protonmail.com-5956ba?style=flat-square&logo=protonmail&logoColor=b3b1f2" />
+    <img width="12.6%" src="https://img.shields.io/badge/protonmail-5956ba?style=for-the-badge&logo=protonmail&logoColor=b3b1f2" />
+  </a>
+  <a href="https://twitter.com/vandal_soul">
+    <img width="10%" src="https://img.shields.io/badge/-twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=ffffff" />
   </a>
 </p>
 
