@@ -35,5 +35,8 @@
     <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=vandalsoul&repo=grub-tweaks&show_icons=true&theme=chartreuse-dark&hide_border=true" />
   </a>
 </p>
-
-
+<!-- https://media.giphy.com/media/SMKiEh9WDO6ze/giphy.gif -->
+<p align="center">
+  <img width="35%" src="http://pa1.narvii.com/7391/0b1d2998307b04c0e4654c9bc52e35e5ef66108dr1-480-319_00.gif" />
+  <img width="48%" src="https://github-readme-twitter-gazf.vercel.app/api?id=vandal_soul&layout=wide&show_border=on&show_retweet=off&show_reply=on" />
+</p>
