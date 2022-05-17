@@ -14,9 +14,6 @@
   <a href="https://ko-fi.com/vandalsoul">
     <img width="8%" src='https://img.shields.io/badge/ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=000000' />
   </a>
-  <a href="https://buymeacoffee.com/vandalsoul">
-    <img width="16%" src='https://img.shields.io/badge/buy%20me%20a%20coffee-d9bc00?style=for-the-badge&logo=buymeacoffee&logoColor=000000' />
-  </a>
 </p>
 
 <p align="center">
