@@ -33,8 +33,8 @@
   </a>
 </p>
 <!-- https://media.giphy.com/media/SMKiEh9WDO6ze/giphy.gif -->
-<p align="center">
-  <img width="35%" src="http://pa1.narvii.com/7391/0b1d2998307b04c0e4654c9bc52e35e5ef66108dr1-480-319_00.gif" />
+<p>
+  <img width="75%" src="http://raw.githubusercontent.com/vandalsoul/vandalsoul/main/media/bird.gif" />
   <a href="https://twitter.com/vandal_soul">
     <img width="48%" src="https://github-readme-twitter-gazf.vercel.app/api?id=vandal_soul&layout=wide&show_border=on&show_retweet=off&show_reply=on" />
   </a>
