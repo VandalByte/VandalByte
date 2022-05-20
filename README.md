@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-  <img width="30%" src="http://raw.githubusercontent.com/vandalsoul/vandalsoul/main/media/twitter.png" />
+  <img width="24%" src="http://raw.githubusercontent.com/vandalsoul/vandalsoul/main/media/twitterlogo.png" />
   <a href="https://twitter.com/vandal_soul">
     <img width="43%" src="https://github-readme-twitter-gazf.vercel.app/api?id=vandal_soul&layout=wide&show_border=on&show_retweet=off&show_reply=on" />
   </a>
