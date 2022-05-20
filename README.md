@@ -32,7 +32,7 @@
     <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=vandalsoul&repo=grub-tweaks&show_icons=true&theme=chartreuse-dark&hide_border=true" />
   </a>
 </p>
-<!-- https://media.giphy.com/media/SMKiEh9WDO6ze/giphy.gif -->
+
 <p>
   <img width="75%" src="http://raw.githubusercontent.com/vandalsoul/vandalsoul/main/media/bird.gif" />
   <a href="https://twitter.com/vandal_soul">
