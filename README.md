@@ -21,6 +21,8 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vandalsoul&theme=chartreuse-dark&hide_border=true" />
 </p>
 
+<img width="20%" src="https://img.shields.io/badge/repositories-00b06d?style=for-the-badge&logo=github&logoColor=000000" />
+
 <p align="center">
   <a href="https://github.com/vandalsoul/dedsec-grub2-theme">
     <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=vandalsoul&repo=dedsec-grub2-theme&show_icons=true&theme=chartreuse-dark&hide_border=true" />
@@ -32,6 +34,8 @@
     <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=vandalsoul&repo=grub-tweaks&show_icons=true&theme=chartreuse-dark&hide_border=true" />
   </a>
 </p>
+
+<br>
 
 <p align="center">
   <img width="24%" src="http://raw.githubusercontent.com/vandalsoul/vandalsoul/main/media/twitterlogo.png" />
