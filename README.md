@@ -34,8 +34,8 @@
 </p>
 
 <p>
-  <img width="75%" src="http://raw.githubusercontent.com/vandalsoul/vandalsoul/main/media/bird.gif" />
+  <img width="70%" src="http://raw.githubusercontent.com/vandalsoul/vandalsoul/main/media/bird.gif" />
   <a href="https://twitter.com/vandal_soul">
-    <img width="48%" src="https://github-readme-twitter-gazf.vercel.app/api?id=vandal_soul&layout=wide&show_border=on&show_retweet=off&show_reply=on" />
+    <img width="43%" src="https://github-readme-twitter-gazf.vercel.app/api?id=vandal_soul&layout=wide&show_border=on&show_retweet=off&show_reply=on" />
   </a>
 </p>
