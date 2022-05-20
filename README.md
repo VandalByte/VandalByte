@@ -23,8 +23,6 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vandalsoul&theme=chartreuse-dark&hide_border=true" />
 </p>
 
-***
-
 <p align="left">
   ㅤ
   <img width="20%" src="https://img.shields.io/badge/repositories-000000?style=for-the-badge&logo=github&logoColor=ffffff" />
@@ -42,7 +40,7 @@
   </a>
 </p>
 
-***
+<br>
 
 <p align="center">
   <img width="24%" src="http://raw.githubusercontent.com/vandalsoul/vandalsoul/main/media/twitter.png" />
