@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="mailto:vandalsoul.github@protonmail.com" target="_blank">
-    <img width="10%" src="http://raw.githubusercontent.com/vandalsoul/vandalsoul/main/media/protnmail.png" />
+    <img width="10%" src="http://raw.githubusercontent.com/vandalsoul/vandalsoul/main/media/protonmail.png" />
   </a>
   <a href="https://www.pling.com/u/ghost-black" target="_blank">
     <img width="10%" src="http://raw.githubusercontent.com/vandalsoul/vandalsoul/main/media/pling.png" />
