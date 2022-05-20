@@ -4,16 +4,16 @@
 </p>
 
 <p align="center">
-  <a href="mailto:vandalsoul.github@protonmail.com">
+  <a href="mailto:vandalsoul.github@protonmail.com" target="_blank">
     <img width="10%" src="http://raw.githubusercontent.com/vandalsoul/vandalsoul/main/media/protnmail.png" />
   </a>
-  <a href="https://www.pling.com/u/ghost-black">
+  <a href="https://www.pling.com/u/ghost-black" target="_blank">
     <img width="10%" src="http://raw.githubusercontent.com/vandalsoul/vandalsoul/main/media/pling.png" />
   </a>
-  <a href="https://twitter.com/vandal_soul">
+  <a href="https://twitter.com/vandal_soul" target="_blank">
     <img width="10%" src="http://raw.githubusercontent.com/vandalsoul/vandalsoul/main/media/twitter.png" />
   </a>
-  <a href="https://ko-fi.com/vandalsoul">
+  <a href="https://ko-fi.com/vandalsoul" target="_blank">
     <img width="10%" src="http://raw.githubusercontent.com/vandalsoul/vandalsoul/main/media/ko-fi.png" />
   </a>
 </p>
@@ -44,7 +44,7 @@
 
 <p align="center">
   <img width="24%" src="http://raw.githubusercontent.com/vandalsoul/vandalsoul/main/media/twitter.png" />
-  <a href="https://twitter.com/vandal_soul">
+  <a href="https://twitter.com/vandal_soul" target="_blank">
     <img width="43%" src="https://github-readme-twitter-gazf.vercel.app/api?id=vandal_soul&layout=wide&show_border=on&show_retweet=off&show_reply=on" />
   </a>
 </p>
