@@ -1,26 +1,26 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vandalsoul/vandalsoul/main/media/mee.gif" />
+  <img src="https://raw.githubusercontent.com/VandalByte/VandalByte/main/media/mee.gif" />
 </p>
 
 <p align="center">
-  <a href="mailto:vandalsoul.github@protonmail.com" target="_blank">
-    <img width="10%" src="http://raw.githubusercontent.com/vandalsoul/vandalsoul/main/media/protonmail.png" />
+  <a href="mailto:VandalByte.github@protonmail.com" target="_blank">
+    <img width="10%" src="http://raw.githubusercontent.com/VandalByte/VandalByte/main/media/protonmail.png" />
   </a>
   <a href="https://www.pling.com/u/ghost-black" target="_blank">
-    <img width="10%" src="http://raw.githubusercontent.com/vandalsoul/vandalsoul/main/media/pling.png" />
+    <img width="10%" src="http://raw.githubusercontent.com/VandalByte/VandalByte/main/media/pling.png" />
   </a>
-  <a href="https://twitter.com/vandal_soul" target="_blank">
-    <img width="10%" src="http://raw.githubusercontent.com/vandalsoul/vandalsoul/main/media/twitter.png" />
+  <a href="https://twitter.com/VandalByte" target="_blank">
+    <img width="10%" src="http://raw.githubusercontent.com/VandalByte/VandalByte/main/media/twitter.png" />
   </a>
-  <a href="https://ko-fi.com/vandalsoul" target="_blank">
-    <img width="10%" src="http://raw.githubusercontent.com/vandalsoul/vandalsoul/main/media/ko-fi.png" />
+  <a href="https://ko-fi.com/VandalByte" target="_blank">
+    <img width="10%" src="http://raw.githubusercontent.com/VandalByte/VandalByte/main/media/ko-fi.png" />
   </a>
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vandalsoul&show_icons=true&theme=chartreuse-dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vandalsoul&theme=chartreuse-dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=VandalByte&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=VandalByte&theme=chartreuse-dark&hide_border=true" />
 </p>
 
 <p align="left">
@@ -29,22 +29,22 @@
 </p>
   
 <p align="center">
-  <a href="https://github.com/vandalsoul/dedsec-grub2-theme">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=vandalsoul&repo=dedsec-grub2-theme&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+  <a href="https://github.com/VandalByte/dedsec-grub2-theme">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=VandalByte&repo=dedsec-grub2-theme&show_icons=true&theme=chartreuse-dark&hide_border=true" />
   </a>
-  <a href="https://github.com/vandalsoul/darkmatter-grub2-theme">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=vandalsoul&repo=darkmatter-grub2-theme&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+  <a href="https://github.com/VandalByte/darkmatter-grub2-theme">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=VandalByte&repo=darkmatter-grub2-theme&show_icons=true&theme=chartreuse-dark&hide_border=true" />
   </a>
-  <a href="https://github.com/vandalsoul/grub-tweaks">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=vandalsoul&repo=grub-tweaks&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+  <a href="https://github.com/VandalByte/grub-tweaks">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=VandalByte&repo=grub-tweaks&show_icons=true&theme=chartreuse-dark&hide_border=true" />
   </a>
 </p>
 
 <br>
 
 <p align="center">
-  <img width="30%" src="http://raw.githubusercontent.com/vandalsoul/vandalsoul/main/media/tweets.png" />
-  <a href="https://twitter.com/vandal_soul" target="_blank">
-    <img width="43%" src="https://github-readme-twitter-gazf.vercel.app/api?id=vandal_soul&layout=wide&show_border=on&show_retweet=off&show_reply=on" />
+  <img width="30%" src="http://raw.githubusercontent.com/VandalByte/VandalByte/main/media/tweets.png" />
+  <a href="https://twitter.com/VandalByte" target="_blank">
+    <img width="43%" src="https://github-readme-twitter-gazf.vercel.app/api?id=VandalByte&layout=wide&show_border=on&show_retweet=off&show_reply=on" />
   </a>
 </p>
