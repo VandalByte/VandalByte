@@ -4,6 +4,9 @@
 </p>
 
 <p align="center">
+  <a href="https://www.reddit.com/user/VandalByte" target="_blank">
+    <img width="10%" src="http://raw.githubusercontent.com/VandalByte/VandalByte/main/media/reddit.png" />
+  </a>
   <a href="mailto:VandalByte.github@protonmail.com" target="_blank">
     <img width="10%" src="http://raw.githubusercontent.com/VandalByte/VandalByte/main/media/protonmail.png" />
   </a>
