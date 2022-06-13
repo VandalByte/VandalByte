@@ -8,7 +8,7 @@
     <img width="10%" src="http://raw.githubusercontent.com/VandalByte/VandalByte/main/media/reddit.png" />
   </a>
   <a href="mailto:vandalsoul.github@protonmail.com" target="_blank">
-    <img width="10%" src="http://raw.githubusercontent.com/VandalByte/VandalByte/main/media/protonmail.png" />
+    <img width="10%" src="http://raw.githubusercontent.com/VandalByte/VandalByte/main/media/mail.png" />
   </a>
   <a href="https://www.pling.com/u/ghost-black" target="_blank">
     <img width="10%" src="http://raw.githubusercontent.com/VandalByte/VandalByte/main/media/pling.png" />
