@@ -4,20 +4,21 @@
 </p>
 
 <p align="center">
-  <a href="https://www.reddit.com/user/VandalByte" target="_blank">
-    <img width="10%" src="http://raw.githubusercontent.com/VandalByte/VandalByte/main/media/reddit.png" />
-  </a>
+  
   <a href="mailto:vandalsoul.github@protonmail.com" target="_blank">
     <img width="10%" src="http://raw.githubusercontent.com/VandalByte/VandalByte/main/media/mail.png" />
   </a>
-  <a href="https://www.pling.com/u/ghost-black" target="_blank">
-    <img width="10%" src="http://raw.githubusercontent.com/VandalByte/VandalByte/main/media/pling.png" />
+  <a href="https://www.reddit.com/user/VandalByte" target="_blank">
+    <img width="10%" src="http://raw.githubusercontent.com/VandalByte/VandalByte/main/media/reddit.png" />
   </a>
   <a href="https://twitter.com/VandalByte" target="_blank">
     <img width="10%" src="http://raw.githubusercontent.com/VandalByte/VandalByte/main/media/twitter.png" />
   </a>
   <a href="https://ko-fi.com/VandalByte" target="_blank">
     <img width="10%" src="http://raw.githubusercontent.com/VandalByte/VandalByte/main/media/ko-fi.png" />
+  </a>
+  <a href="https://www.pling.com/u/ghost-black" target="_blank">
+    <img width="10%" src="http://raw.githubusercontent.com/VandalByte/VandalByte/main/media/pling.png" />
   </a>
 </p>
 
