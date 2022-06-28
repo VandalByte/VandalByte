@@ -5,7 +5,7 @@
 
 <p align="center">
   
-  <a href="mailto:vandalsoul.github@protonmail.com" target="_blank">
+  <a href="mailto:vandal.social@proton.me" target="_blank">
     <img width="10%" src="http://raw.githubusercontent.com/VandalByte/VandalByte/main/media/mail.png" />
   </a>
   <a href="https://www.reddit.com/user/VandalByte" target="_blank">
