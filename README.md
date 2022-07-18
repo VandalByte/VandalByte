@@ -28,27 +28,17 @@
 </p>
 
 <p align="left">
-  ㅤ
   <img width="20%" src="https://img.shields.io/badge/repositories-000000?style=for-the-badge&logo=github&logoColor=ffffff" />
 </p>
   
 <p align="center">
   <a href="https://github.com/VandalByte/dedsec-grub2-theme">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=VandalByte&repo=dedsec-grub2-theme&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+    <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=VandalByte&repo=dedsec-grub2-theme&show_icons=true&theme=chartreuse-dark&hide_border=true" />
   </a>
   <a href="https://github.com/VandalByte/darkmatter-grub2-theme">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=VandalByte&repo=darkmatter-grub2-theme&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+    <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=VandalByte&repo=darkmatter-grub2-theme&show_icons=true&theme=chartreuse-dark&hide_border=true" />
   </a>
   <a href="https://github.com/VandalByte/grub-tweaks">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=VandalByte&repo=grub-tweaks&show_icons=true&theme=chartreuse-dark&hide_border=true" />
-  </a>
-</p>
-
-<br>
-
-<p align="center">
-  <img width="30%" src="http://raw.githubusercontent.com/VandalByte/VandalByte/main/media/tweets.png" />
-  <a href="https://twitter.com/VandalByte" target="_blank">
-    <img width="43%" src="https://github-readme-twitter-gazf.vercel.app/api?id=VandalByte&layout=wide&show_border=on&show_retweet=off&show_reply=on" />
+    <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=VandalByte&repo=grub-tweaks&show_icons=true&theme=chartreuse-dark&hide_border=true" />
   </a>
 </p>
