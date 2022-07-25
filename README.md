@@ -28,7 +28,7 @@
 </p>
 
 <p align="left">
-  ㅤㅤ<img width="20%" src="https://img.shields.io/badge/repositories-000000?style=for-the-badge&logo=github&logoColor=ffffff" />
+  ㅤ<img width="20%" src="https://img.shields.io/badge/repositories-000000?style=for-the-badge&logo=github&logoColor=ffffff" />
 </p>
   
 <p align="center">
