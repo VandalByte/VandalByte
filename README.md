@@ -8,6 +8,9 @@
   <a href="mailto:vandal.social@proton.me" target="_blank">
     <img width="10%" src="http://raw.githubusercontent.com/VandalByte/VandalByte/main/media/mail.png" />
   </a>
+  <a href="https://gitlab.com/VandalByte" target="_blank">
+    <img width="10%" src="http://raw.githubusercontent.com/VandalByte/VandalByte/main/media/gitlab.png" />
+  </a>
   <a href="https://www.reddit.com/user/VandalByte" target="_blank">
     <img width="10%" src="http://raw.githubusercontent.com/VandalByte/VandalByte/main/media/reddit.png" />
   </a>
