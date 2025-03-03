@@ -1,0 +1,100 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/VandalByte/dedsec-grub2-theme/commit/a21f3cfa409d6a5972abe66c5aaaa4f9a7b69e59\"><strong>a</strong>21f3cfa409d6a5972abe66c5aaaa4f9a7b69e59</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/VandalByte/dedsec-grub2-theme/commit/ab32b35cd73d9b45e091fd1490e340136a5bfd3c\"><strong>ab</strong>32b35cd73d9b45e091fd1490e340136a5bfd3c</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "bad-words",
+    "tier": 0,
+    "desc": "I used a word \"fuck\" in my commit message.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/VandalByte/dedsec-grub2-theme/commit/e4aa4d321443fd87452c8c64ea773253e70fb05f\">e4aa4d3</a>: Delete preview-fuckery.png",
+    "image": "https://my-badges.github.io/my-badges/bad-words.png"
+  },
+  {
+    "id": "dead-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"dead\" once.",
+    "body": "- <a href=\"https://github.com/VandalByte/darkmatter-grub2-theme/commit/5210cca40dead2db1a9b5a1702918416c56ea6aa\">5210cca40<strong>dead</strong>2db1a9b5a1702918416c56ea6aa</a>",
+    "image": "https://my-badges.github.io/my-badges/dead-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"update\".",
+    "body": "My favorite commit message words are:\n\n1. update (used 570 times)\n2. readme.md (used 476 times)\n3. add (used 162 times)\n4. delete (used 150 times)\n5. files (used 145 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "self-upvote",
+    "tier": 1,
+    "desc": "I liked my own comment so much that I upvoted it.",
+    "body": "* <a href=\"https://github.com/VandalByte/dedsec-grub2-theme/issues/14#issuecomment-1175337939\">🎉</a>",
+    "image": "https://my-badges.github.io/my-badges/self-upvote.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 5 my own repositories.",
+    "body": "- <a href=\"https://github.com/VandalByte/dedsec-grub2-theme\">VandalByte/dedsec-grub2-theme</a>\n- <a href=\"https://github.com/VandalByte/darkmatter-grub2-theme\">VandalByte/darkmatter-grub2-theme</a>\n- <a href=\"https://github.com/VandalByte/grub-tweaks\">VandalByte/grub-tweaks</a>\n- <a href=\"https://github.com/VandalByte/nexverse-dbms-project\">VandalByte/nexverse-dbms-project</a>\n- <a href=\"https://github.com/VandalByte/kality\">VandalByte/kality</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
+  },
+  {
+    "id": "stars-100",
+    "tier": 1,
+    "desc": "I collected 100 stars.",
+    "body": "Repos:\n\n* <a href=\"https://github.com/VandalByte/grub-tweaks\">VandalByte/grub-tweaks: ★286</a>\n* <a href=\"https://github.com/VandalByte/kality\">VandalByte/kality: ★9</a>\n* <a href=\"https://github.com/VandalByte/VandalByte\">VandalByte/VandalByte: ★2</a>\n* <a href=\"https://github.com/VandalByte/nexverse-dbms-project\">VandalByte/nexverse-dbms-project: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "image": "https://my-badges.github.io/my-badges/stars-100.png"
+  },
+  {
+    "id": "stars-500",
+    "tier": 2,
+    "desc": "I collected 500 stars.",
+    "body": "Repos:\n\n* <a href=\"https://github.com/VandalByte/darkmatter-grub2-theme\">VandalByte/darkmatter-grub2-theme: ★334</a>\n* <a href=\"https://github.com/VandalByte/grub-tweaks\">VandalByte/grub-tweaks: ★286</a>\n* <a href=\"https://github.com/VandalByte/kality\">VandalByte/kality: ★9</a>\n* <a href=\"https://github.com/VandalByte/VandalByte\">VandalByte/VandalByte: ★2</a>\n* <a href=\"https://github.com/VandalByte/nexverse-dbms-project\">VandalByte/nexverse-dbms-project: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "image": "https://my-badges.github.io/my-badges/stars-500.png"
+  },
+  {
+    "id": "stars-1000",
+    "tier": 3,
+    "desc": "I collected 1000 stars.",
+    "body": "Repos:\n\n* <a href=\"https://github.com/VandalByte/dedsec-grub2-theme\">VandalByte/dedsec-grub2-theme: ★384</a>\n* <a href=\"https://github.com/VandalByte/darkmatter-grub2-theme\">VandalByte/darkmatter-grub2-theme: ★334</a>\n* <a href=\"https://github.com/VandalByte/grub-tweaks\">VandalByte/grub-tweaks: ★286</a>\n* <a href=\"https://github.com/VandalByte/kality\">VandalByte/kality: ★9</a>\n* <a href=\"https://github.com/VandalByte/VandalByte\">VandalByte/VandalByte: ★2</a>\n* <a href=\"https://github.com/VandalByte/nexverse-dbms-project\">VandalByte/nexverse-dbms-project: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "image": "https://my-badges.github.io/my-badges/stars-1000.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/VandalByte/VandalByte/commit/8082764affad9bf75f87d534ca10746a93da9733\">8082764</a>\n- <a href=\"https://github.com/VandalByte/VandalByte/commit/dba572a3dc74e718d97013bb3402d4a4c04d6b99\">dba572a</a>\n- <a href=\"https://github.com/VandalByte/VandalByte/commit/327c39fff5e66ecf0610258efe57c1b561101f4f\">327c39f</a>\n- <a href=\"https://github.com/VandalByte/VandalByte/commit/ebe2e8589aa18a41ebf9c2aa7d047e54ead939b9\">ebe2e85</a>\n- <a href=\"https://github.com/VandalByte/darkmatter-grub2-theme/commit/4304753ecd423a6e2115f11a2591be5692a5ed44\">4304753</a>\n- <a href=\"https://github.com/VandalByte/dedsec-grub2-theme/commit/2c295638ae037c48f60b68210342874f574cce46\">2c29563</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/VandalByte/Nautica/commit/4b085b12f83afc7ea293b5e359bde718bb3683c0\">4b085b1</a>\n- <a href=\"https://github.com/VandalByte/Nautica/commit/5c3ae6b9d94762d30bce1d0dab93ab3a4e907a6e\">5c3ae6b</a>\n- <a href=\"https://github.com/VandalByte/Nautica/commit/1d7357ad7b0e8d193fc07004d0783fce7449b780\">1d7357a</a>\n- <a href=\"https://github.com/VandalByte/Woof/commit/2cc53c42a686b5fc75ffa12e1af9bb67d049acc5\">2cc53c4</a>\n- <a href=\"https://github.com/VandalByte/kality/commit/c65775afa530f1031c05cc99ec5ee1aa7975fc10\">c65775a</a>\n- <a href=\"https://github.com/VandalByte/grub-tweaks/commit/df9973d5264ae480d62d81706adc7a58af2120fe\">df9973d</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/VandalByte/Nautica/commit/16af5786a6f4f82d10493fb1444f8755c5e3a4e2\">16af578</a>\n- <a href=\"https://github.com/VandalByte/grub-tweaks/commit/821b48cfd6f81b030aa3bbe5de589a55b5cbaea7\">821b48c</a>\n- <a href=\"https://github.com/VandalByte/grub-tweaks/commit/61d127b6a5db6ed9031769fae00b0f71527aeb98\">61d127b</a>\n- <a href=\"https://github.com/VandalByte/grub-tweaks/commit/369e02b125c583f2ebdb4e6730fbde63ad20fc3b\">369e02b</a>\n- <a href=\"https://github.com/VandalByte/darkmatter-grub2-theme/commit/35264dc32c8697806ad215d9cae00629678b84a9\">35264dc</a>\n- <a href=\"https://github.com/VandalByte/darkmatter-grub2-theme/commit/e7348e784502a713845da10c6282908e735245e1\">e7348e7</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "midnight-commits",
+    "tier": 0,
+    "desc": "I commit at midnight.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/VandalByte/darkmatter-grub2-theme/commit/8c6ef8b616a77d5f7f02e374cfcfa84ecc9ceb95\">8c6ef8b</a>\n- <a href=\"https://github.com/VandalByte/grub-tweaks/commit/1bee6f1490eec53932efab93a89a689d7939df92\">1bee6f1</a>\n- <a href=\"https://github.com/VandalByte/grub-tweaks/commit/20ab6a4bdeba70e125d527f320764c1fb104442d\">20ab6a4</a>",
+    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  }
+]
