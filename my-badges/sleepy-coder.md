@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/VandalByte/invoice-extractor/commit/2536fb439b4c81d85b662ae3c31a6902429be4cf">2536fb4</a>
+- <a href="https://github.com/VandalByte/invoice-extractor/commit/e9859906f4161c7221455a4a077d42f33dd02539">e985990</a>
+- <a href="https://github.com/VandalByte/invoice-extractor/commit/ed4ce76e701c257f0d5c8c7c24b9dfd20586ac17">ed4ce76</a>
+- <a href="https://github.com/VandalByte/invoice-extractor/commit/4e3daf595dee6568097536ee1c090f209687b9b7">4e3daf5</a>
 - <a href="https://github.com/VandalByte/VandalByte/commit/c9e950ca84440377ff7a15ab96107a1bc763fe3e">c9e950c</a>
 - <a href="https://github.com/VandalByte/VandalByte/commit/8082764affad9bf75f87d534ca10746a93da9733">8082764</a>
-- <a href="https://github.com/VandalByte/VandalByte/commit/dba572a3dc74e718d97013bb3402d4a4c04d6b99">dba572a</a>
-- <a href="https://github.com/VandalByte/VandalByte/commit/327c39fff5e66ecf0610258efe57c1b561101f4f">327c39f</a>
-- <a href="https://github.com/VandalByte/VandalByte/commit/ebe2e8589aa18a41ebf9c2aa7d047e54ead939b9">ebe2e85</a>
-- <a href="https://github.com/VandalByte/darkmatter-grub2-theme/commit/4304753ecd423a6e2115f11a2591be5692a5ed44">4304753</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
