@@ -1,5 +1,5 @@
 ### ❓WHOAMI
-Hey there, I'm Vandal! 👋
+Hey there, I'm **`Vandal`**! 👋
 
 - I'm a Computer Science Engineering student currently pursuing my degree.
 - I'm passionate about Python programming and have experience with various technologies, including Cybersecurity and Cloud Security.
