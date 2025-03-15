@@ -1,12 +1,15 @@
-### ❓WHOAMI
-Hey there, I'm **`Vandal`**! 👋
+# Hey there, I'm **Vandal**! 👋
 
-- I'm a Computer Science Engineering student currently pursuing my degree.
-- I'm passionate about Python programming and have experience with various technologies, including Cybersecurity and Cloud Security.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VandalByte/VandalByte/main/media/mee.gif" />
+</p>
 
-🟢 Qt Framework 🟢 Linux Systems 🟢 AWS 🟢 Kotlin 🟢 C/C++ 🟢 Java
+Nothing much to go into details about me... 
+I'm a Computer Science Engineering student currently pursuing my degree. I'm passionate about Python programming and have experience with various technologies, including Cybersecurity and Cloud Security.
 
-### ⭐ My Stats
+🟢 Python 🟢 Qt Framework 🟢 Linux Systems 🟢 AWS 🟢 Kotlin 🟢 C/C++ 🟢 Java
+
+# ⭐ My Stats
 <div align="center">
   <table style="border-collapse: collapse;">
     <tr>
@@ -21,7 +24,7 @@ Hey there, I'm **`Vandal`**! 👋
 </div>
 
 
-### 📗 Top Projects
+# 📗 Top Projects
 <div align="center">
   <table style="border-collapse: collapse;">
     <tr>
@@ -52,7 +55,7 @@ Hey there, I'm **`Vandal`**! 👋
 </div>
 
 
-### 🎖️ Bonus Badges
+# 🎖️ Bonus Badges
 <!-- my-badges start -->
 <a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
 <a href="my-badges/ab-commit.md"><img src="https://my-badges.github.io/my-badges/ab-commit.png" alt="One of my commit sha starts with &quot;ab&quot;." title="One of my commit sha starts with &quot;ab&quot;." width="64"></a>
