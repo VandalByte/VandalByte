@@ -4,10 +4,10 @@
   <img src="https://raw.githubusercontent.com/VandalByte/VandalByte/main/media/mee.gif" />
 </p>
 
-Nothing much to go into details about me... 
-I'm a Computer Science Engineering student currently pursuing my degree. I'm passionate about Python programming and have experience with various technologies, including Cybersecurity and Cloud Security.
+**Nothing much to go into details about me...**
+**I'm a Computer Science Engineering student currently pursuing my degree. I'm passionate about Python programming and have experience with various technologies, including Cybersecurity and Cloud Security.**
 
-🟢 Python 🟢 Qt Framework 🟢 Linux Systems 🟢 AWS 🟢 Kotlin 🟢 C/C++ 🟢 Java
+**🟢 Python 🟢 Qt Framework 🟢 Linux Systems 🟢 AWS 🟢 Kotlin 🟢 C/C++ 🟢 Java**
 
 # ⭐ My Stats
 <div align="center">
