@@ -1,9 +1,10 @@
-<img src="https://my-badges.github.io/my-badges/stars-1000.png" alt="I collected 1000 stars." title="I collected 1000 stars." width="128">
-<strong>I collected 1000 stars.</strong>
+<img src="https://my-badges.github.io/my-badges/stars-2000.png" alt="I collected 2000 stars." title="I collected 2000 stars." width="128">
+<strong>I collected 2000 stars.</strong>
 <br><br>
 
 Repos:
 
+* <a href="https://github.com/borgbase/vorta">borgbase/vorta: ★2137</a>
 * <a href="https://github.com/VandalByte/dedsec-grub2-theme">VandalByte/dedsec-grub2-theme: ★413</a>
 * <a href="https://github.com/VandalByte/darkmatter-grub2-theme">VandalByte/darkmatter-grub2-theme: ★339</a>
 * <a href="https://github.com/VandalByte/grub-tweaks">VandalByte/grub-tweaks: ★294</a>
