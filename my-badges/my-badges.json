@@ -31,7 +31,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 581 times)\n2. readme.md (used 482 times)\n3. add (used 180 times)\n4. delete (used 150 times)\n5. files (used 145 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 585 times)\n2. readme.md (used 486 times)\n3. add (used 181 times)\n4. delete (used 150 times)\n5. files (used 146 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -44,29 +44,29 @@
   {
     "id": "self-star",
     "tier": 0,
-    "desc": "I've starred 5 my own repositories.",
-    "body": "- <a href=\"https://github.com/VandalByte/dedsec-grub2-theme\">VandalByte/dedsec-grub2-theme</a>\n- <a href=\"https://github.com/VandalByte/darkmatter-grub2-theme\">VandalByte/darkmatter-grub2-theme</a>\n- <a href=\"https://github.com/VandalByte/grub-tweaks\">VandalByte/grub-tweaks</a>\n- <a href=\"https://github.com/VandalByte/nexverse-dbms-project\">VandalByte/nexverse-dbms-project</a>\n- <a href=\"https://github.com/VandalByte/kality\">VandalByte/kality</a>",
+    "desc": "I've starred 6 my own repositories.",
+    "body": "- <a href=\"https://github.com/VandalByte/dedsec-grub2-theme\">VandalByte/dedsec-grub2-theme</a>\n- <a href=\"https://github.com/VandalByte/darkmatter-grub2-theme\">VandalByte/darkmatter-grub2-theme</a>\n- <a href=\"https://github.com/VandalByte/grub-tweaks\">VandalByte/grub-tweaks</a>\n- <a href=\"https://github.com/VandalByte/nexverse-dbms-project\">VandalByte/nexverse-dbms-project</a>\n- <a href=\"https://github.com/VandalByte/kality\">VandalByte/kality</a>\n- <a href=\"https://github.com/VandalByte/snapbooth\">VandalByte/snapbooth</a>",
     "image": "https://my-badges.github.io/my-badges/self-star.png"
   },
   {
     "id": "stars-100",
     "tier": 1,
     "desc": "I collected 100 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/VandalByte/grub-tweaks\">VandalByte/grub-tweaks: ★317</a>\n* <a href=\"https://github.com/VandalByte/kality\">VandalByte/kality: ★9</a>\n* <a href=\"https://github.com/VandalByte/VandalByte\">VandalByte/VandalByte: ★2</a>\n* <a href=\"https://github.com/VandalByte/nexverse-dbms-project\">VandalByte/nexverse-dbms-project: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/VandalByte/grub-tweaks\">VandalByte/grub-tweaks: ★317</a>\n* <a href=\"https://github.com/VandalByte/kality\">VandalByte/kality: ★9</a>\n* <a href=\"https://github.com/VandalByte/VandalByte\">VandalByte/VandalByte: ★2</a>\n* <a href=\"https://github.com/VandalByte/snapbooth\">VandalByte/snapbooth: ★2</a>\n* <a href=\"https://github.com/VandalByte/nexverse-dbms-project\">VandalByte/nexverse-dbms-project: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-100.png"
   },
   {
     "id": "stars-500",
     "tier": 2,
     "desc": "I collected 500 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/VandalByte/darkmatter-grub2-theme\">VandalByte/darkmatter-grub2-theme: ★344</a>\n* <a href=\"https://github.com/VandalByte/grub-tweaks\">VandalByte/grub-tweaks: ★317</a>\n* <a href=\"https://github.com/VandalByte/kality\">VandalByte/kality: ★9</a>\n* <a href=\"https://github.com/VandalByte/VandalByte\">VandalByte/VandalByte: ★2</a>\n* <a href=\"https://github.com/VandalByte/nexverse-dbms-project\">VandalByte/nexverse-dbms-project: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/VandalByte/darkmatter-grub2-theme\">VandalByte/darkmatter-grub2-theme: ★344</a>\n* <a href=\"https://github.com/VandalByte/grub-tweaks\">VandalByte/grub-tweaks: ★317</a>\n* <a href=\"https://github.com/VandalByte/kality\">VandalByte/kality: ★9</a>\n* <a href=\"https://github.com/VandalByte/VandalByte\">VandalByte/VandalByte: ★2</a>\n* <a href=\"https://github.com/VandalByte/snapbooth\">VandalByte/snapbooth: ★2</a>\n* <a href=\"https://github.com/VandalByte/nexverse-dbms-project\">VandalByte/nexverse-dbms-project: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-500.png"
   },
   {
     "id": "stars-1000",
     "tier": 3,
     "desc": "I collected 1000 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/VandalByte/dedsec-grub2-theme\">VandalByte/dedsec-grub2-theme: ★430</a>\n* <a href=\"https://github.com/VandalByte/darkmatter-grub2-theme\">VandalByte/darkmatter-grub2-theme: ★344</a>\n* <a href=\"https://github.com/VandalByte/grub-tweaks\">VandalByte/grub-tweaks: ★317</a>\n* <a href=\"https://github.com/VandalByte/kality\">VandalByte/kality: ★9</a>\n* <a href=\"https://github.com/VandalByte/VandalByte\">VandalByte/VandalByte: ★2</a>\n* <a href=\"https://github.com/VandalByte/nexverse-dbms-project\">VandalByte/nexverse-dbms-project: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/VandalByte/dedsec-grub2-theme\">VandalByte/dedsec-grub2-theme: ★430</a>\n* <a href=\"https://github.com/VandalByte/darkmatter-grub2-theme\">VandalByte/darkmatter-grub2-theme: ★344</a>\n* <a href=\"https://github.com/VandalByte/grub-tweaks\">VandalByte/grub-tweaks: ★317</a>\n* <a href=\"https://github.com/VandalByte/kality\">VandalByte/kality: ★9</a>\n* <a href=\"https://github.com/VandalByte/VandalByte\">VandalByte/VandalByte: ★2</a>\n* <a href=\"https://github.com/VandalByte/snapbooth\">VandalByte/snapbooth: ★2</a>\n* <a href=\"https://github.com/VandalByte/nexverse-dbms-project\">VandalByte/nexverse-dbms-project: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-1000.png"
   },
   {
@@ -80,7 +80,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/VandalByte/snapbooth/commit/c7ad6feedd5a2fa8cf167894627b8ad63339353a\">c7ad6fe</a>\n- <a href=\"https://github.com/VandalByte/invoice-extractor/commit/c0782ae5e931ccddfc76b3bfed55ebdd17442212\">c0782ae</a>\n- <a href=\"https://github.com/VandalByte/invoice-extractor/commit/11a248d3e956711961fa988a6edfd058d81950a0\">11a248d</a>\n- <a href=\"https://github.com/VandalByte/invoice-extractor/commit/755da47c9a93e51321398c925d552904e622eea8\">755da47</a>\n- <a href=\"https://github.com/VandalByte/invoice-extractor/commit/b40b347caa7e608e2c40290131863da647fb4568\">b40b347</a>\n- <a href=\"https://github.com/VandalByte/Nautica/commit/4b085b12f83afc7ea293b5e359bde718bb3683c0\">4b085b1</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/VandalByte/snapbooth/commit/75e7972fe5aff48626b8d68648a9010615688452\">75e7972</a>\n- <a href=\"https://github.com/VandalByte/snapbooth/commit/c7ad6feedd5a2fa8cf167894627b8ad63339353a\">c7ad6fe</a>\n- <a href=\"https://github.com/VandalByte/invoice-extractor/commit/c0782ae5e931ccddfc76b3bfed55ebdd17442212\">c0782ae</a>\n- <a href=\"https://github.com/VandalByte/invoice-extractor/commit/11a248d3e956711961fa988a6edfd058d81950a0\">11a248d</a>\n- <a href=\"https://github.com/VandalByte/invoice-extractor/commit/755da47c9a93e51321398c925d552904e622eea8\">755da47</a>\n- <a href=\"https://github.com/VandalByte/invoice-extractor/commit/b40b347caa7e608e2c40290131863da647fb4568\">b40b347</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
@@ -101,7 +101,7 @@
     "id": "stars-2000",
     "tier": 4,
     "desc": "I collected 2000 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/borgbase/vorta\">borgbase/vorta: ★2173</a>\n* <a href=\"https://github.com/VandalByte/dedsec-grub2-theme\">VandalByte/dedsec-grub2-theme: ★430</a>\n* <a href=\"https://github.com/VandalByte/darkmatter-grub2-theme\">VandalByte/darkmatter-grub2-theme: ★344</a>\n* <a href=\"https://github.com/VandalByte/grub-tweaks\">VandalByte/grub-tweaks: ★317</a>\n* <a href=\"https://github.com/VandalByte/kality\">VandalByte/kality: ★9</a>\n* <a href=\"https://github.com/VandalByte/VandalByte\">VandalByte/VandalByte: ★2</a>\n* <a href=\"https://github.com/VandalByte/nexverse-dbms-project\">VandalByte/nexverse-dbms-project: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/borgbase/vorta\">borgbase/vorta: ★2175</a>\n* <a href=\"https://github.com/VandalByte/dedsec-grub2-theme\">VandalByte/dedsec-grub2-theme: ★430</a>\n* <a href=\"https://github.com/VandalByte/darkmatter-grub2-theme\">VandalByte/darkmatter-grub2-theme: ★344</a>\n* <a href=\"https://github.com/VandalByte/grub-tweaks\">VandalByte/grub-tweaks: ★317</a>\n* <a href=\"https://github.com/VandalByte/kality\">VandalByte/kality: ★9</a>\n* <a href=\"https://github.com/VandalByte/VandalByte\">VandalByte/VandalByte: ★2</a>\n* <a href=\"https://github.com/VandalByte/snapbooth\">VandalByte/snapbooth: ★2</a>\n* <a href=\"https://github.com/VandalByte/nexverse-dbms-project\">VandalByte/nexverse-dbms-project: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-2000.png"
   }
 ]
