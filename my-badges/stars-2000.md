@@ -4,12 +4,12 @@
 
 Repos:
 
-* <a href="https://github.com/borgbase/vorta">borgbase/vorta: ★2182</a>
+* <a href="https://github.com/borgbase/vorta">borgbase/vorta: ★2184</a>
 * <a href="https://github.com/VandalByte/dedsec-grub2-theme">VandalByte/dedsec-grub2-theme: ★435</a>
 * <a href="https://github.com/VandalByte/darkmatter-grub2-theme">VandalByte/darkmatter-grub2-theme: ★348</a>
-* <a href="https://github.com/VandalByte/grub-tweaks">VandalByte/grub-tweaks: ★320</a>
+* <a href="https://github.com/VandalByte/grub-tweaks">VandalByte/grub-tweaks: ★322</a>
 * <a href="https://github.com/VandalByte/kality">VandalByte/kality: ★9</a>
-* <a href="https://github.com/VandalByte/snapbooth">VandalByte/snapbooth: ★3</a>
+* <a href="https://github.com/VandalByte/snapbooth">VandalByte/snapbooth: ★4</a>
 * <a href="https://github.com/VandalByte/VandalByte">VandalByte/VandalByte: ★2</a>
 * <a href="https://github.com/VandalByte/nexverse-dbms-project">VandalByte/nexverse-dbms-project: ★1</a>
 
