@@ -51,6 +51,13 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td style="padding: 0; margin: 0;">
+        <a href="https://github.com/VandalByte/snapbooth">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=VandalByte&repo=snapbooth&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+        </a>
+      </td>
+    </tr>
   </table>
 </div>
 
