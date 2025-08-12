@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/borgbase/vorta">borgbase/vorta: ★2221</a>
+* <a href="https://github.com/borgbase/vorta">borgbase/vorta: ★2223</a>
 * <a href="https://github.com/VandalByte/dedsec-grub2-theme">VandalByte/dedsec-grub2-theme: ★448</a>
 * <a href="https://github.com/VandalByte/darkmatter-grub2-theme">VandalByte/darkmatter-grub2-theme: ★360</a>
 * <a href="https://github.com/VandalByte/grub-tweaks">VandalByte/grub-tweaks: ★333</a>
