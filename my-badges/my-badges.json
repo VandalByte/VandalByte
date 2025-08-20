@@ -103,5 +103,12 @@
     "desc": "I collected 2000 stars.",
     "body": "Repos:\n\n* <a href=\"https://github.com/borgbase/vorta\">borgbase/vorta: ★2221</a>\n* <a href=\"https://github.com/VandalByte/dedsec-grub2-theme\">VandalByte/dedsec-grub2-theme: ★450</a>\n* <a href=\"https://github.com/VandalByte/darkmatter-grub2-theme\">VandalByte/darkmatter-grub2-theme: ★361</a>\n* <a href=\"https://github.com/VandalByte/grub-tweaks\">VandalByte/grub-tweaks: ★337</a>\n* <a href=\"https://github.com/VandalByte/kality\">VandalByte/kality: ★10</a>\n* <a href=\"https://github.com/VandalByte/snapbooth\">VandalByte/snapbooth: ★4</a>\n* <a href=\"https://github.com/VandalByte/VandalByte\">VandalByte/VandalByte: ★2</a>\n* <a href=\"https://github.com/VandalByte/nexverse-dbms-project\">VandalByte/nexverse-dbms-project: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-2000.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/borgbase/vorta/commit/c8ddd622710206e42d84ae5167b7abde206f9d05\">c8ddd62</a>: Fix blank entry in the Custom exclusions. By @VandalByte (#2268)\n- <a href=\"https://github.com/borgbase/vorta/commit/7b2e42e767a317efb5a1948f1e05113bb65479ea\">7b2e42e</a>: Fix incorrect renaming of archives after aborting. By @VandalByte (#2213)",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
   }
 ]
