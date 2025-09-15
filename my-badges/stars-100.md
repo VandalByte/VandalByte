@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/VandalByte/grub-tweaks">VandalByte/grub-tweaks: ★343</a>
+* <a href="https://github.com/VandalByte/grub-tweaks">VandalByte/grub-tweaks: ★344</a>
 * <a href="https://github.com/VandalByte/kality">VandalByte/kality: ★10</a>
 * <a href="https://github.com/VandalByte/snapbooth">VandalByte/snapbooth: ★4</a>
 * <a href="https://github.com/VandalByte/VandalByte">VandalByte/VandalByte: ★2</a>
