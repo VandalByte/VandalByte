@@ -39,7 +39,7 @@
         <img src="https://github-readme-stats-eta-red-87.vercel.app/api?username=VandalByte&show_icons=true&theme=chartreuse-dark&hide_border=true" />
       </td>
       <td style="padding: 0 10px;">
-        <img src="https://github-readme-stats-eta-red-87.vercel.app/?user=VandalByte&theme=chartreuse-dark&hide_border=true" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=VandalByte&theme=chartreuse-dark&hide_border=true" />
       </td>
     </tr>
   </table>
