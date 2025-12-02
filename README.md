@@ -1,13 +1,35 @@
-# Hey there, I'm **Vandal**! 👋
+# Hi there, I'm **Vandal**! 👋
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/VandalByte/VandalByte/main/media/mee.gif" />
 </p>
 
-**Nothing much to go into details about me...**
-**I'm a Computer Science Engineering student currently pursuing my degree. I'm passionate about Python programming and have experience with various technologies, including Cybersecurity and Cloud Security.**
+### I'm a Student, Developer and Designer!
 
-**🟢 Python 🟢 Qt Framework 🟢 Linux Systems 🟢 AWS 🟢 Kotlin 🟢 C/C++ 🟢 Java**
+- 🌱 I'm currently learning Google's new Agent Development Kit (ADK) and Kotlin.
+- 🌟 2025 GOALS - Become good at Android Development.
+
+### Languages and Tools
+
+<img align="left" alt="python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:10px;" />
+<img align="left" alt="kotlin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" style="padding-right:10px;" />
+<img align="left" alt="java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="padding-right:10px;" />
+<img align="left" alt="cplusplus" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
+<img align="left" alt="html5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="css3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="javascript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="tailwindcss" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="padding-right:10px;" />
+<img align="left" alt="vscode" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" style="padding-right:10px;" />
+<img align="left" alt="android" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="androidstudio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" style="padding-right:10px;" />
+<img align="left" alt="qt" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" style="padding-right:10px;" />
+
+<br />
+<br/>
 
 # ⭐ My Stats
 <div align="center">
