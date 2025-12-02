@@ -31,20 +31,6 @@
 <br />
 <br/>
 
-# ⭐ My Stats
-<div align="center">
-  <table style="border-collapse: collapse;">
-    <tr>
-      <td style="padding: 0 10px;">
-        <img src="https://github-readme-stats-eta-red-87.vercel.app/api?username=VandalByte&show_icons=true&theme=dark&hide_border=true" />
-      </td>
-      <td style="padding: 0 10px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=VandalByte&theme=dark&hide_border=true" />
-      </td>
-    </tr>
-  </table>
-</div>
-
 
 # 📗 Top Projects
 ### Here are some of my most exciting projects:
@@ -84,6 +70,20 @@
   </table>
 </div>
 
+
+# ⭐ My Stats
+<div align="center">
+  <table style="border-collapse: collapse;">
+    <tr>
+      <td style="padding: 0 10px;">
+        <img src="https://github-readme-stats-eta-red-87.vercel.app/api?username=VandalByte&show_icons=true&theme=dark&hide_border=true" />
+      </td>
+      <td style="padding: 0 10px;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=VandalByte&theme=dark&hide_border=true" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 # 🎖️ Bonus Badges
 <!-- my-badges start -->
