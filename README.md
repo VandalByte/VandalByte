@@ -36,10 +36,10 @@
   <table style="border-collapse: collapse;">
     <tr>
       <td style="padding: 0 10px;">
-        <img src="https://github-readme-stats-eta-red-87.vercel.app/api?username=VandalByte&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+        <img src="https://github-readme-stats-eta-red-87.vercel.app/api?username=VandalByte&show_icons=true&theme=dark&hide_border=true" />
       </td>
       <td style="padding: 0 10px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=VandalByte&theme=chartreuse-dark&hide_border=true" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=VandalByte&theme=dark&hide_border=true" />
       </td>
     </tr>
   </table>
@@ -53,31 +53,31 @@
     <tr>
       <td style="padding: 0; margin: 0;">
         <a href="https://github.com/VandalByte/dedsec-grub2-theme">
-          <img src="https://github-readme-stats-eta-red-87.vercel.app/api/pin/?username=VandalByte&repo=dedsec-grub2-theme&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+          <img src="https://github-readme-stats-eta-red-87.vercel.app/api/pin/?username=VandalByte&repo=dedsec-grub2-theme&show_icons=true&theme=dark&hide_border=true" />
         </a>
       </td>
       <td style="padding: 0; margin: 0;">
         <a href="https://github.com/VandalByte/darkmatter-grub2-theme">
-          <img src="https://github-readme-stats-eta-red-87.vercel.app/api/pin/?username=VandalByte&repo=darkmatter-grub2-theme&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+          <img src="https://github-readme-stats-eta-red-87.vercel.app/api/pin/?username=VandalByte&repo=darkmatter-grub2-theme&show_icons=true&theme=dark&hide_border=true" />
         </a>
       </td>
     </tr>
     <tr>
       <td style="padding: 0; margin: 0;">
         <a href="https://github.com/VandalByte/grub-tweaks">
-          <img src="https://github-readme-stats-eta-red-87.vercel.app/api/pin/?username=VandalByte&repo=grub-tweaks&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+          <img src="https://github-readme-stats-eta-red-87.vercel.app/api/pin/?username=VandalByte&repo=grub-tweaks&show_icons=true&theme=dark&hide_border=true" />
         </a>
       </td>
       <td style="padding: 0; margin: 0;">
         <a href="https://github.com/VandalByte/kality">
-          <img src="https://github-readme-stats-eta-red-87.vercel.app/api/pin/?username=VandalByte&repo=kality&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+          <img src="https://github-readme-stats-eta-red-87.vercel.app/api/pin/?username=VandalByte&repo=kality&show_icons=true&theme=dark&hide_border=true" />
         </a>
       </td>
     </tr>
     <tr>
       <td style="padding: 0; margin: 0;">
         <a href="https://github.com/VandalByte/snapbooth">
-          <img src="https://github-readme-stats-eta-red-87.vercel.app/api/pin/?username=VandalByte&repo=snapbooth&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+          <img src="https://github-readme-stats-eta-red-87.vercel.app/api/pin/?username=VandalByte&repo=snapbooth&show_icons=true&theme=dark&hide_border=true" />
         </a>
       </td>
     </tr>
