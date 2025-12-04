@@ -4,8 +4,8 @@
 
 Repos:
 
-* <a href="https://github.com/VandalByte/dedsec-grub2-theme">VandalByte/dedsec-grub2-theme: ★476</a>
-* <a href="https://github.com/VandalByte/darkmatter-grub2-theme">VandalByte/darkmatter-grub2-theme: ★373</a>
+* <a href="https://github.com/VandalByte/dedsec-grub2-theme">VandalByte/dedsec-grub2-theme: ★475</a>
+* <a href="https://github.com/VandalByte/darkmatter-grub2-theme">VandalByte/darkmatter-grub2-theme: ★374</a>
 * <a href="https://github.com/VandalByte/grub-tweaks">VandalByte/grub-tweaks: ★369</a>
 * <a href="https://github.com/VandalByte/kality">VandalByte/kality: ★11</a>
 * <a href="https://github.com/VandalByte/snapbooth">VandalByte/snapbooth: ★4</a>
