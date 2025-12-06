@@ -4,8 +4,8 @@
 
 Repos:
 
-* <a href="https://github.com/VandalByte/grub-tweaks">VandalByte/grub-tweaks: ★369</a>
-* <a href="https://github.com/VandalByte/kality">VandalByte/kality: ★11</a>
+* <a href="https://github.com/VandalByte/grub-tweaks">VandalByte/grub-tweaks: ★370</a>
+* <a href="https://github.com/VandalByte/kality">VandalByte/kality: ★12</a>
 * <a href="https://github.com/VandalByte/snapbooth">VandalByte/snapbooth: ★4</a>
 * <a href="https://github.com/VandalByte/VandalByte">VandalByte/VandalByte: ★2</a>
 * <a href="https://github.com/VandalByte/nexverse-dbms-project">VandalByte/nexverse-dbms-project: ★1</a>
