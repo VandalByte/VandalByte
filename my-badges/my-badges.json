@@ -117,5 +117,19 @@
     "desc": "Happy Programmers Day! I committed on a 256 Day of Year!",
     "body": "Commits:\n\n- <a href=\"https://github.com/VandalByte/hr-diagnosis-cnn/commit/0c71aac1b8e67adfb77fabff2d93191ff117dd58\">0c71aac</a>\n- <a href=\"https://github.com/VandalByte/hr-diagnosis-cnn/commit/5273de57d6b08d813f5a67b9d723534deac12780\">5273de5</a>\n- <a href=\"https://github.com/VandalByte/hr-diagnosis-cnn/commit/317eb57a515e70228a9488ab910663c431cf6116\">317eb57</a>",
     "image": "https://my-badges.github.io/my-badges/programmers-day.png"
+  },
+  {
+    "id": "alien-day",
+    "tier": 0,
+    "desc": "I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/VandalByte/grub-tweaks/commit/675a409e3e31ba0b9721d5598f7045e6555a2701\">675a409</a>\n- <a href=\"https://github.com/VandalByte/grub-tweaks/commit/03f914ab8f1794f6f80aff42305e9a43313043e9\">03f914a</a>\n- <a href=\"https://github.com/VandalByte/grub-tweaks/commit/c90855ae0324948b3a71655cc97080f79a0aa29b\">c90855a</a>\n- <a href=\"https://github.com/VandalByte/grub-tweaks/commit/e1312313bdc4aaaf26b3050e0e28418e37a09d08\">e131231</a>",
+    "image": "https://my-badges.github.io/my-badges/alien-day.png"
+  },
+  {
+    "id": "science-fiction-day",
+    "tier": 0,
+    "desc": "I committed on Isaac Asimov's birthday / National Science Fiction Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/VandalByte/grub-tweaks/commit/d4f087cc43a6ce0bc000c4614fcc7c24970f758d\">d4f087c</a>\n- <a href=\"https://github.com/VandalByte/grub-tweaks/commit/c90a5966aa211a065031aff6d12c70bfb1a7f120\">c90a596</a>\n- <a href=\"https://github.com/VandalByte/grub-tweaks/commit/bce674dc974e4c78a853f37044d0a2c6761000ef\">bce674d</a>\n- <a href=\"https://github.com/VandalByte/grub-tweaks/commit/57049b56f028f67e15606ce96d03b51f0fd7e546\">57049b5</a>\n- <a href=\"https://github.com/VandalByte/grub-tweaks/commit/c277a9a7af0c2f89fd3f2f3e8596043e593ac1dc\">c277a9a</a>\n- <a href=\"https://github.com/VandalByte/grub-tweaks/commit/6cbcd8c308ac05a3670ca9b9cee0b0feaf488e32\">6cbcd8c</a>",
+    "image": "https://my-badges.github.io/my-badges/science-fiction-day.png"
   }
 ]
