@@ -6,8 +6,8 @@
 
 ### I'm a Student, Developer and Designer!
 
-- 🌱 I'm currently learning Google's new Agent Development Kit (ADK) and Kotlin.
-- 🌟 2025 GOALS - Become good at Android Development.
+- 🌱 I'm currently learning Google's new Agent Development Kit (ADK), Kotlin and Flutter.
+- 🌟 2026 GOALS - Become good at Application Development.
 
 ### Languages and Tools
 
